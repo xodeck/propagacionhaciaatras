@@ -1,0 +1,8 @@
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\obj\Debug\ResolveAssemblyReference.cache
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Principal.resources
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\obj\Debug\BackPropagation.Properties.Resources.resources
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\obj\Debug\BackPropagation.csproj.GenerateResource.Cache
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\bin\Debug\BackPropagation.exe
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\bin\Debug\BackPropagation.pdb
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\obj\Debug\BackPropagation.exe
+D:\TOTAN\Universidad\paradigmasII\BackPropagation\BackPropagation\obj\Debug\BackPropagation.pdb
