@@ -1,0 +1,1 @@
+Red neuronal que se podrá entrenar a partir de un archivo de ejemplos de prueba que puede ser creado a partir de la interfaz ofrecida. La idea original es el reconocimiento de vocales en mayúscula y minúscula, dibujadas en la cuadrícula que se ofrece en la interfaz.
